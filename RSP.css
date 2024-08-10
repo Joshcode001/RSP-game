@@ -1,0 +1,39 @@
+.jsedit {
+  margin-top: 100px;
+  text-align: center;
+  margin-left: 400px;
+}
+.jsedit2 {
+  font-size: 20px;
+  margin-top: 60px;
+  color: brown;
+  margin-right: 520px;
+  padding: 20px;
+  word-spacing: 7px;
+  letter-spacing: 3px;
+}
+.jsedit1 {
+  font-size: 20px;
+  color : red;
+  border: 3px solid rgba(0, 0, 0, 0.382);
+  width: 300px;
+  align-items: center;
+  margin-left: 100px;
+}
+#userBTN {
+
+  padding: 20px;
+  margin-left: 450px;
+  margin-top: 110px;
+  background-color: rgba(95, 158, 160, 0.724);
+  width: 350px;
+  padding-left: 20px;
+}
+h2 {
+  text-align: center;
+  color: rgba(199, 21, 134, 0.477);
+  margin-right: 130px;
+}
+* {
+  background-color: #ddd;
+}
